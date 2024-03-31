@@ -7,8 +7,6 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://portfoliov1raphael.netlify.app](https://portfoliov1raphael.netlify.app)
 
-- 📝 I regularly write articles on [https://portfoliov1raphael.netlify.app](https://portfoliov1raphael.netlify.app)
-
 - 💬 Demande moi à propos de **html, css, javascript**
 
 - 📄 Connaître mes expériences [https://portfoliov1raphael.netlify.app](https://portfoliov1raphael.netlify.app)
