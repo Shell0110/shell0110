@@ -46,12 +46,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shell0110&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shell0110&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Shell0110&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shell0110&radius=16&theme=modern-lilac&area=true&order=5&custom_title=Graph%20de%20contribution" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Shell0110/Shell0110/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Shell0110/count.svg?"  />
+</div>
 
 ###
