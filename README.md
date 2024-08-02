@@ -1,4 +1,4 @@
-<h2 align="center">Salut 👋! Je suis Shell0110, j'ai 17 ans.<br>Je suis Français.</h2>
+<h2 align="center">Hi 👋! I'am Shell0110, I have 17y.<br>I'm French.</h2>
 
 ###
 
