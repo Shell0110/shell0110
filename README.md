@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="[https://i.pinimg.com/564x/61/92/88/6192883d7448f9cbb9313dd7d9b0a8ff.jpg](https://avatars.githubusercontent.com/u/106093343?s=400&u=e2e28b886f079e3dc133ffa2c5d45935abe0b620&v=4)"  />
+  <img height="150" src="https://i.pinimg.com/564x/61/92/88/6192883d7448f9cbb9313dd7d9b0a8ff.jpg"  />
 </div>
 
 ###
