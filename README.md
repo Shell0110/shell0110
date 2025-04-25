@@ -50,9 +50,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Shell0110/count.svg?"  />
-</div>
-
-###
